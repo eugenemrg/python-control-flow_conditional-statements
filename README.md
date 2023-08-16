@@ -43,9 +43,9 @@ Python has the following operators that can be used to compare two values:
 
 Python has the `is` operator, similar to JavaScript's `===`, it is not used the same way as it is in JavaScript. There are very few scenarios where the `is` operator in Python; in general, for comparing data, you want to use the `==` <br/>
 The reason:
->> The `==` operator *compares the value* or *equality of two objects*, whereas the Python `is` operator checks whether *two variables point to the same object in memory*. In the vast majority of cases, this means you should use the equality operators == and !=, except when you’re comparing to None.
+> The `==` operator *compares the value* or *equality of two objects*, whereas the Python `is` operator checks whether *two variables point to the same object in memory*. In the vast majority of cases, this means you should use the equality operators == and !=, except when you’re comparing to None.
 
->> Memory management in Python involves a private heap containing all Python objects and data structures. The management of this private heap is ensured internally by the Python memory manager.
+> Memory management in Python involves a private heap containing all Python objects and data structures. The management of this private heap is ensured internally by the Python memory manager.
 
 ## Logical Operators
 Python also includes logical operators similar to other programming languages e.g. JavaScript, these include:
