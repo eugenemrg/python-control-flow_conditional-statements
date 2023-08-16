@@ -18,3 +18,5 @@ match(current_day):
         print('Day 6 - Weekend - Saturday')
     case 6:
         print('Day 7 - Weekend - Sunday')
+    case other:
+        print('No match found')
