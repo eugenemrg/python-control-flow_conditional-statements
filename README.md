@@ -68,6 +68,13 @@ Zero of any numeric type (`0`, `0.0`) <br/>
 `None` <br/>
 `False` <br/>
 
+# Conditional statements
+
+Python uses the following to execute conditionally:
+- `if/elif/else` Statements
+- `match/case` Statements, Dictionary Mapping
+- `try/except` Statements
+
 # References
 
 Control Flow on Canvas
